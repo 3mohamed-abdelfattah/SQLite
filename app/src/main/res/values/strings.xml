@@ -3,4 +3,5 @@
     <string name="text_one">Text One</string>
     <string name="text_two">Text Two</string>
     <string name="add_to_database">ADD TO DATABASE</string>
+    <string name="read_date">Read Date</string>
 </resources>
