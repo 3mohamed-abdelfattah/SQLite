@@ -1,6 +1,5 @@
 # SQLite Resources
 
-[![SQLite](https://github.com/3mohamed-abdelfattah/API/assets/142848460/47bca5ac-25c9-4b26-b8cd-f371b5180261)](https://www.sqlite.org/index.html)
 
 ## Useful Links
 
